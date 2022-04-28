@@ -1,0 +1,22 @@
+fix api call - done 
+progress bar - done
+focus - done
+enter to submit - done
+Remove input suggestions - done
+timelimit - done
+settings(time, length,disable in timeout,no duplicates) buttons - done 
+
+Stop game on timeout
+Stop Timer on Win - done
+Disable Input on win - done
+settings(time, length,disable in timeout,no duplicates) - values - done
+Capitalise inputs - done
+Stop game on timeout - done
+New input on top -done
+style 
+
+
+teams
+
+show toast
+language
